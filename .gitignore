@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/APIModels/bin/Debug/net6.0
+/APIModels/obj
+/Data/bin/Debug/net6.0
+/Data/obj
+/MicroMonolithSample/.vs/MicroMonolithSample/v17
+/MicroMonolithSample/bin/Debug/net6.0
+/MicroMonolithSample/obj
+/OrchestrationService/bin/Debug/net6.0
+/OrchestrationService/obj
+/IntegrationTests/bin/Debug/net6.0
+/IntegrationTests/obj
+/KYCService/bin/Debug/net6.0
+/KYCService/obj
+/MemberService/bin/Debug/net6.0
+/MemberService/obj
